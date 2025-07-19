@@ -9,5 +9,11 @@ public class first {
         System.out.println("My name is " +  input.nextLine());
 
 
+
+
+
+        input.close();
+
+
     }
 }
