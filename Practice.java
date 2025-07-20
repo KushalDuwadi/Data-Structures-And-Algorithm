@@ -1,4 +1,4 @@
-//import java.util.Scanner;
+import java.util.Scanner;
 
 // This program checks if a given number is a palindrome or not.
 
@@ -33,7 +33,6 @@
 
 //2. This program check if the given number is armstrong number is not.
 
-import java.util.Scanner;
 
 
 
