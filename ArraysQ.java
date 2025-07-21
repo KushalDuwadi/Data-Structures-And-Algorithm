@@ -7,7 +7,7 @@ public class ArraysQ {
         Scanner input = new Scanner(System.in);
         for(int i =0; i<marks.length; i++){
             int mark = input.nextInt();
-            marks[i] = mark;
+            marks[i] = mark; // taking input for the array
 
         }
         //displaying the array of marks
